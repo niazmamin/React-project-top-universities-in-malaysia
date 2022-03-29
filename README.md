@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+# React js mini project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fresher can start practicing react mini project like this one to have a clear picture of react components.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### `React js is the best option for Front-end development`
 
